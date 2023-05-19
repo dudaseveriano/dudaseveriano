@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maria Eduarda Severiano</h1>
 <h3 align="center">Economics & Data</h3>
 
+- 👩‍🎓	Economics - Universidade Federal Fluminense 
+
 - 🌱 I’m currently learning **Power BI | SQL | Python | Machine Learning | Excel**
 
 - 💬 Ask me about **Data Analysis | BI Analysis | Data Science**
